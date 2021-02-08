@@ -36,13 +36,11 @@ To do this we:
 ![SMOTEENN](https://user-images.githubusercontent.com/71476009/107172971-52c65680-698c-11eb-98a4-4d5d15bc95f1.png)
 
 ## Balanced Random Forest Classifier
-    - Balanced Accuracy Score of 
-    - Confusion Matrix 
-    - Imbalanced Classification Report
+- Balanced Accuracy Score of 91%
+![BRF Classifier](https://user-images.githubusercontent.com/71476009/107173181-cec09e80-698c-11eb-96e0-0f6faf67aa31.png)
 
 ## Easy Ensemble Classifier
-    - Balanced Accuracy Score of 
-    - Confusion Matrix 
-    - Imbalanced Classification Report
+- Balanced Accuracy Score of 94%
+![Easy Ensemble Classifier](https://user-images.githubusercontent.com/71476009/107173271-0f201c80-698d-11eb-92b6-88fe237a87cf.png)
 
 ## Summary
