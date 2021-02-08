@@ -44,3 +44,6 @@ To do this we:
 ![Easy Ensemble Classifier](https://user-images.githubusercontent.com/71476009/107173271-0f201c80-698d-11eb-92b6-88fe237a87cf.png)
 
 ## Summary
+
+My loan risk results were all over the map ranging from 40% to 94% in Accuracy Scores. The precision (positive predictive values) were rather low, meaning  and recall (sensitivity) rates also varied with a range of 57% to 94% of retrieved relevant measurements. Where percentages of accuracy and sourcing was highest, was at 94% was with the Easy Ensemble Adaboost Classifier. The EEAC had an accuracy score of 94%, surveyed 91-94% of relevant loan info, had a ... and .... supplying the conclusion it is the recommended machine learning model. 
+
