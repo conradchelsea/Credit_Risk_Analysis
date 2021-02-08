@@ -16,43 +16,31 @@ To do this we:
 
 ## Results
 
-- Random Oversampling:
-    - Balanced Accuracy Score of 68%
-    - Confusion Matrix 
-      ![Confusion Matrix](https://user-images.githubusercontent.com/71476009/107171503-94ed9900-6988-11eb-811d-4c7015a743d8.png)
-    - Imbalanced Classification Report
-      ![Imbalanced Class Report ](https://user-images.githubusercontent.com/71476009/107171573-bcdcfc80-6988-11eb-828e-982d14268efb.png)
+## Random Oversampling:
+- Balanced Accuracy Score of 68%
+![Random Oversampling](https://user-images.githubusercontent.com/71476009/107172669-8d7bbf00-698b-11eb-8f8e-7c945743a12c.png)
       
     
-- SMOTE Oversampling
-    - Balanced Accuracy Score of 66%
-    - Confusion Matrix 
-      ![Confusion Matrix](https://user-images.githubusercontent.com/71476009/107171866-6fad5a80-6989-11eb-8f17-476943a5c785.png)
-    - Imbalanced Classification Report
-      ![Classification Report](https://user-images.githubusercontent.com/71476009/107171888-7f2ca380-6989-11eb-81f6-ac50608b5460.png)
+## SMOTE Oversampling
+- Balanced Accuracy Score of 66%
+![SMOTE](https://user-images.githubusercontent.com/71476009/107172550-41307f00-698b-11eb-9071-33f5184cfd50.png)
       
 
-- Cluster Centroids Undersampling
-    - Balanced Accuracy Score of 40%
-    - Confusion Matrix 
-      ![Screen Shot 2021-02-07 at 9 17 09 PM](https://user-images.githubusercontent.com/71476009/107172034-ecd8cf80-6989-11eb-8c68-b9c47e17b83e.png)
-    - Imbalanced Classification Report
-      ![Screen Shot 2021-02-07 at 9 17 15 PM](https://user-images.githubusercontent.com/71476009/107172050-fb26eb80-6989-11eb-9271-0f1044157794.png)
+## Cluster Centroids Undersampling
+- Balanced Accuracy Score of 40%
+![Cluster Centroid Undersampling](https://user-images.githubusercontent.com/71476009/107172858-0713ad00-698c-11eb-83cb-2147444c7464.png)
       
       
-- SMOTEENN Combined Sampling
-    - Balanced Accuracy Score of 57%
-    - Confusion Matrix 
-      ![Screen Shot 2021-02-07 at 9 19 08 PM](https://user-images.githubusercontent.com/71476009/107172121-32959800-698a-11eb-97b8-7e7508d87354.png)
-    - Imbalanced Classification Report
-       ![Screen Shot 2021-02-07 at 9 19 13 PM](https://user-images.githubusercontent.com/71476009/107172148-40e3b400-698a-11eb-84c4-16a1e76eb00b.png)
+## SMOTEENN Combined Sampling
+- Balanced Accuracy Score of 57%
+![SMOTEENN](https://user-images.githubusercontent.com/71476009/107172971-52c65680-698c-11eb-98a4-4d5d15bc95f1.png)
 
-- Balanced Random Forest Classifier
+## Balanced Random Forest Classifier
     - Balanced Accuracy Score of 
     - Confusion Matrix 
     - Imbalanced Classification Report
 
-- Easy Ensemble Classifier
+## Easy Ensemble Classifier
     - Balanced Accuracy Score of 
     - Confusion Matrix 
     - Imbalanced Classification Report
